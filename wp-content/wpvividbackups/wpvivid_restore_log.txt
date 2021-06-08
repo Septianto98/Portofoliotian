@@ -1,0 +1,146 @@
+Log created: 2021-06-08 07:25:28
+Type: restore
+[2021-06-08 07:25:28][notice]init restore data
+[2021-06-08 07:25:28][notice]Start restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_all.zip
+[2021-06-08 07:25:28][notice]extract root:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\
+[2021-06-08 07:25:28][notice]start extracting file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_all.zip
+[2021-06-08 07:25:32][notice]extract finished file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_all.zip
+[2021-06-08 07:25:32][notice]Finished restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_all.zip
+[2021-06-08 07:25:35][notice]Start restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_plugin.zip
+[2021-06-08 07:25:35][notice]restore from files:["D:\\Budi Luhur\\portofoliotian\/wp-content\\wpvividbackups\\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_plugin.zip"]
+[2021-06-08 07:25:35][notice]start extracting file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_plugin.zip
+[2021-06-08 07:26:50][notice]extract finished file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_plugin.zip
+[2021-06-08 07:26:50][notice]Finished restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_plugin.zip
+[2021-06-08 07:26:53][notice]Start restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_uploads.zip
+[2021-06-08 07:26:53][notice]restore from files:["D:\\Budi Luhur\\portofoliotian\/wp-content\\wpvividbackups\\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_uploads.zip"]
+[2021-06-08 07:26:53][notice]start extracting file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_uploads.zip
+[2021-06-08 07:26:56][notice]extract finished file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_uploads.zip
+[2021-06-08 07:26:56][notice]Finished restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_uploads.zip
+[2021-06-08 07:27:02][notice]Start restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_core.zip
+[2021-06-08 07:27:02][notice]restore from files:["D:\\Budi Luhur\\portofoliotian\/wp-content\\wpvividbackups\\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_core.zip"]
+[2021-06-08 07:27:02][notice]start extracting file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_core.zip
+[2021-06-08 07:27:32][notice]extract finished file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_core.zip
+[2021-06-08 07:27:33][notice]Finished restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_core.zip
+[2021-06-08 07:27:35][notice]Start restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_themes.zip
+[2021-06-08 07:27:35][notice]restore from files:["D:\\Budi Luhur\\portofoliotian\/wp-content\\wpvividbackups\\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_themes.zip"]
+[2021-06-08 07:27:35][notice]start extracting file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_themes.zip
+[2021-06-08 07:27:37][notice]extract finished file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_themes.zip
+[2021-06-08 07:27:37][notice]Finished restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_themes.zip
+[2021-06-08 07:27:39][notice]Start restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_content.zip
+[2021-06-08 07:27:39][notice]restore from files:["D:\\Budi Luhur\\portofoliotian\/wp-content\\wpvividbackups\\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_content.zip"]
+[2021-06-08 07:27:39][notice]start extracting file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_content.zip
+[2021-06-08 07:27:39][notice]extract finished file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_content.zip
+[2021-06-08 07:27:39][notice]Finished restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_content.zip
+[2021-06-08 07:27:42][notice]Start restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_db.zip
+[2021-06-08 07:27:42][notice]start extracting file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_db.zip
+[2021-06-08 07:27:42][notice]extract finished file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_db.zip
+[2021-06-08 07:27:42][notice]sql file: portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_db.sql
+[2021-06-08 07:27:42][Warning]wpdb
+[2021-06-08 07:27:42][notice]The test to create table succeeds.
+[2021-06-08 07:27:42][notice]The test to insert into table succeeds.
+[2021-06-08 07:27:42][notice]The test to drop table succeeds.
+[2021-06-08 07:27:42][notice]get max_allowed_packet wpdb 
+[2021-06-08 07:27:42][notice]max_allowed_packet less than 32M :1.00 MB
+[2021-06-08 07:27:42][notice]Start import sql file.
+[2021-06-08 07:27:42][notice]old site url:http://portofoliotian.local
+[2021-06-08 07:27:42][notice]old home url:http://portofoliotian.local
+[2021-06-08 07:27:42][notice]old content url:http://portofoliotian.local/wp-content
+[2021-06-08 07:27:42][notice]old upload url:http://portofoliotian.local/wp-content/uploads
+[2021-06-08 07:27:42][notice]old site prefix:wp_
+[2021-06-08 07:27:42][notice]Drop table if exist
+[2021-06-08 07:27:43][notice]Create table wp_commentmeta
+[2021-06-08 07:27:43][notice]Dumping table wp_commentmeta is complete. Start replacing row(s).
+[2021-06-08 07:27:43][notice]Count of rows in wp_commentmeta: 0
+[2021-06-08 07:27:43][notice]Drop table if exist
+[2021-06-08 07:27:43][notice]Create table wp_comments
+[2021-06-08 07:27:43][notice]Dumping table wp_comments is complete. Start replacing row(s).
+[2021-06-08 07:27:43][notice]Count of rows in wp_comments: 1
+[2021-06-08 07:27:43][notice]Replace the row in 0 line.
+[2021-06-08 07:27:43][notice]finish replace rows
+[2021-06-08 07:27:43][notice]Drop table if exist
+[2021-06-08 07:27:43][notice]Create table wp_e_submissions
+[2021-06-08 07:27:43][notice]Dumping table wp_e_submissions is complete. Start replacing row(s).
+[2021-06-08 07:27:43][notice]finish replace rows
+[2021-06-08 07:27:43][notice]Drop table if exist
+[2021-06-08 07:27:43][notice]Create table wp_e_submissions_actions_log
+[2021-06-08 07:27:43][notice]Dumping table wp_e_submissions_actions_log is complete. Start replacing row(s).
+[2021-06-08 07:27:43][notice]Count of rows in wp_e_submissions_actions_log: 0
+[2021-06-08 07:27:43][notice]Drop table if exist
+[2021-06-08 07:27:43][notice]Create table wp_e_submissions_values
+[2021-06-08 07:27:43][notice]Dumping table wp_e_submissions_values is complete. Start replacing row(s).
+[2021-06-08 07:27:43][notice]Count of rows in wp_e_submissions_values: 0
+[2021-06-08 07:27:43][notice]Drop table if exist
+[2021-06-08 07:27:43][notice]Create table wp_links
+[2021-06-08 07:27:43][notice]Dumping table wp_links is complete. Start replacing row(s).
+[2021-06-08 07:27:43][notice]Count of rows in wp_links: 0
+[2021-06-08 07:27:43][notice]Drop table if exist
+[2021-06-08 07:27:43][notice]Create table wp_options
+[2021-06-08 07:27:44][notice]Dumping table wp_options is complete. Start replacing row(s).
+[2021-06-08 07:27:44][notice]Count of rows in wp_options: 223
+[2021-06-08 07:27:44][notice]Replace the row in 0 line.
+[2021-06-08 07:27:44][notice]finish replace rows
+[2021-06-08 07:27:44][notice]Drop table if exist
+[2021-06-08 07:27:44][notice]Create table wp_postmeta
+[2021-06-08 07:27:50][notice]Dumping table wp_postmeta is complete. Start replacing row(s).
+[2021-06-08 07:27:50][notice]Count of rows in wp_postmeta: 2452
+[2021-06-08 07:27:50][notice]Replace the row in 0 line.
+[2021-06-08 07:27:52][notice]finish replace rows
+[2021-06-08 07:27:52][notice]Drop table if exist
+[2021-06-08 07:27:52][notice]Create table wp_posts
+[2021-06-08 07:27:53][notice]Dumping table wp_posts is complete. Start replacing row(s).
+[2021-06-08 07:27:53][notice]Count of rows in wp_posts: 395
+[2021-06-08 07:27:53][notice]Replace the row in 0 line.
+[2021-06-08 07:27:55][notice]finish replace rows
+[2021-06-08 07:27:55][notice]Drop table if exist
+[2021-06-08 07:27:55][notice]Create table wp_term_relationships
+[2021-06-08 07:27:55][notice]Dumping table wp_term_relationships is complete. Start replacing row(s).
+[2021-06-08 07:27:55][Warning]Skip table wp_term_relationships
+[2021-06-08 07:27:55][notice]Drop table if exist
+[2021-06-08 07:27:55][notice]Create table wp_term_taxonomy
+[2021-06-08 07:27:55][notice]Dumping table wp_term_taxonomy is complete. Start replacing row(s).
+[2021-06-08 07:27:55][notice]Count of rows in wp_term_taxonomy: 5
+[2021-06-08 07:27:55][notice]Replace the row in 0 line.
+[2021-06-08 07:27:55][notice]finish replace rows
+[2021-06-08 07:27:55][notice]Drop table if exist
+[2021-06-08 07:27:55][notice]Create table wp_termmeta
+[2021-06-08 07:27:55][notice]Dumping table wp_termmeta is complete. Start replacing row(s).
+[2021-06-08 07:27:55][notice]Count of rows in wp_termmeta: 0
+[2021-06-08 07:27:55][notice]Drop table if exist
+[2021-06-08 07:27:55][notice]Create table wp_terms
+[2021-06-08 07:27:55][notice]Dumping table wp_terms is complete. Start replacing row(s).
+[2021-06-08 07:27:55][notice]Count of rows in wp_terms: 5
+[2021-06-08 07:27:55][notice]Replace the row in 0 line.
+[2021-06-08 07:27:55][notice]finish replace rows
+[2021-06-08 07:27:55][notice]Drop table if exist
+[2021-06-08 07:27:55][notice]Create table wp_usermeta
+[2021-06-08 07:27:56][notice]Dumping table wp_usermeta is complete. Start replacing row(s).
+[2021-06-08 07:27:56][notice]Count of rows in wp_usermeta: 24
+[2021-06-08 07:27:56][notice]Replace the row in 0 line.
+[2021-06-08 07:27:56][notice]finish replace rows
+[2021-06-08 07:27:56][notice]Drop table if exist
+[2021-06-08 07:27:56][notice]Create table wp_users
+[2021-06-08 07:27:56][notice]Dumping table wp_users is complete. Start replacing row(s).
+[2021-06-08 07:27:56][notice]Count of rows in wp_users: 1
+[2021-06-08 07:27:56][notice]Replace the row in 0 line.
+[2021-06-08 07:27:56][notice]finish replace rows
+[2021-06-08 07:27:56][notice]Drop table if exist
+[2021-06-08 07:27:56][notice]Create table wp_wpvivid_scan_result
+[2021-06-08 07:27:56][notice]Dumping table wp_wpvivid_scan_result is complete. Start replacing row(s).
+[2021-06-08 07:27:56][notice]Count of rows in wp_wpvivid_scan_result: 0
+[2021-06-08 07:27:56][notice]Drop table if exist
+[2021-06-08 07:27:56][notice]Create table wp_wpvivid_unused_uploads_files
+[2021-06-08 07:27:56][notice]Dumping table wp_wpvivid_unused_uploads_files is complete. Start replacing row(s).
+[2021-06-08 07:27:56][notice]Count of rows in wp_wpvivid_unused_uploads_files: 0
+[2021-06-08 07:27:56][notice]UPDATE wp_options SET option_value="http://localhost/portofoliotian" WHERE option_name="siteurl";
+[2021-06-08 07:27:56][notice]update query len:97
+[2021-06-08 07:27:56][notice]UPDATE wp_options SET option_value="http://localhost/portofoliotian" WHERE option_name="home";
+[2021-06-08 07:27:56][notice]update query len:94
+[2021-06-08 07:27:56][notice]Finished restoring portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_db.zip
+[2021-06-08 07:27:58][notice]Restore task completed.
+[2021-06-08 07:28:00][notice]disable maintenance mode
+[2021-06-08 07:28:00][notice]clean file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_plugin.zip
+[2021-06-08 07:28:00][notice]clean file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_uploads.zip
+[2021-06-08 07:28:00][notice]clean file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_core.zip
+[2021-06-08 07:28:00][notice]clean file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_db.zip
+[2021-06-08 07:28:00][notice]clean file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_themes.zip
+[2021-06-08 07:28:00][notice]clean file:D:\Budi Luhur\portofoliotian/wp-content\wpvividbackups\portofoliotian.local_wpvivid-60bf15e2dc8c6_2021-06-08-07-01_backup_content.zip
